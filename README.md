@@ -1,2 +1,3 @@
 Nombre: Javier Dorado
-Cóigo de comisión: K1102
+
+Código de comisión: K1102
